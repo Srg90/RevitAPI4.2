@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining1\RevitAPI4.2.dll"</Assembly>
+		<AddInId>18E382C6-5489-4463-8C22-B29AD173FF95</AddInId>
+		<FullClassName>RevitAPI4._2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение и запись файлов Excel</Text>
+	</AddIn>
+</RevitAddIns>
